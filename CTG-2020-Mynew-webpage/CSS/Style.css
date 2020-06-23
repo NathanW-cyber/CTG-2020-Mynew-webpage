@@ -1,0 +1,20 @@
+body {
+    background-color: skyblue;
+}
+
+#Welcome {
+    font-family: 'Sriracha', Arial, sans-serif;
+    font-size: 30pt;
+    font-style: oblique;
+    
+}
+
+.img {
+    width: 200px;
+    
+}
+
+#POM {
+    font-style: normal;
+    font-size: 22pt
+}
